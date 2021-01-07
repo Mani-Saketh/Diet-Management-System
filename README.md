@@ -19,10 +19,10 @@ Diagram of the Project-
 Input/Output combination-
 
 
-<img src = "c++/1.jpg">
-<img src = "c++/2.jpg">
-<img src = "c++/4.jpg">
-<img src = "c++/5.jpg">
+ <img src = "c++/1.jpg">
+ <img src = "c++/2.jpg">
+ <img src = "c++/4.jpg">
+ <img src = "c++/5.jpg">
 
 
 
